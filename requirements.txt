@@ -3,3 +3,7 @@ langchain
 openai
 python-dotenv
 langchain-openai
+langchain-chroma
+langchain-core
+langchain-openai
+langchain-text-splitters
