@@ -7,4 +7,8 @@ langchain-chroma
 langchain-core
 langchain-openai
 langchain-text-splitters
+<<<<<<< HEAD
 langchain-community
+=======
+langchain-community
+>>>>>>> bc39e24014b9c090433321804686edbd7be5637f
